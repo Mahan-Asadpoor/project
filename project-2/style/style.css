@@ -1,0 +1,62 @@
+h1{
+    text-align: center;
+    color: white;
+}
+
+address{
+    text-align: center;
+    font-size: larger;
+    color: white;
+}
+
+.img-slider{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
+
+h2{
+    text-align: center;
+    color: white;
+}
+
+ li{
+    text-align: center;
+    list-style-type: none;
+}
+
+a{
+    color: white;
+}
+
+p{
+    text-align: center;
+    color: white;
+}
+
+.Services{
+    color: rgb(0, 0, 0);
+}
+
+.b-s-Images{
+    float: left;
+    width: 25%;
+}
+
+.More{
+    color: black;
+}
+
+.paragheraf{
+    color: rgb(255, 255, 255);
+}
+
+.b-s-Images img{
+    float: right;
+}
+
+.prag{
+    text-align: center;
+    color: white;
+}
